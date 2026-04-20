@@ -1,22 +1,22 @@
-Ярослав Латышев
-Студент Минского государственного колледжа цифровых технологий.
-Интересуюсь backend-разработкой на C#/.NET, архитектурой приложений и базами данных. Пишу чистый код, изучаю принципы SOLID и паттерны проектирования.
-Технологический стек
-Языки программирования:
+Yaroslav Latyshev
+Student at Minsk State College of Digital Technologies.
+Interested in backend development with C#/.NET, application architecture, and databases. I write clean code and study SOLID principles and design patterns.
+Tech Stack
+Languages:
 C#, C++, Python, JavaScript, SQL
-Инструменты и технологии:
+Tools:
 .NET Framework, ASP.NET Core, Git, Visual Studio, SQL Server, SQLite, HTML/CSS
-Текущие проекты:
-MedHelp — система управления записями к врачу с ролевой моделью доступа и экспортом отчетов.
-Контакты
-Email: yariklatyshev140308@gmail.com
-Проекты:
+Projects
 MedHelp
-Приложение для клиники на C# и WPF.
-Ролевая модель (Администратор, Врач, Пациент)
-Запись на прием и вызов врача на дом
-Экспорт данных в Excel
+Appointment management system built with C# and WPF.
+Role-based access: Admin, Doctor, Patient
+Online appointment booking and home visit requests
+Report export to Excel
+Search for patients and doctors by surname or card number
 Hotel Management System
-Консольное приложение на C++ для учета номеров и гостей.
-Работа с файлами
-Поиск и фильтрация данных
+Console application for guest management in C++.
+File system integration for data storage
+Room search and filtering by parameters
+Input data validation
+Contacts
+Email: yariklatyshev140308@gmail.com
