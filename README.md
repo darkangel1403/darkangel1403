@@ -31,6 +31,7 @@ Appointment management system built with C# and WPF.
 - Search for patients and doctors by surname or card number
 
 Hotel Management System
+
 Console application for guest management in C++.
 - File system integration for data storage
 - Room search and filtering by parameters
