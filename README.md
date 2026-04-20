@@ -21,12 +21,15 @@ Tools:
 - HTML/CSS
 
 Projects
+
 MedHelp
+
 Appointment management system built with C# and WPF.
 - Role-based access: Admin, Doctor, Patient
 - Online appointment booking and home visit requests
 - Report export to Excel
 - Search for patients and doctors by surname or card number
+
 Hotel Management System
 Console application for guest management in C++.
 - File system integration for data storage
