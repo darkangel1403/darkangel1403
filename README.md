@@ -1,17 +1,19 @@
-Yaroslav Latyshev
+# Yaroslav Latyshev
 
 Student at Minsk State College of Digital Technologies.
-Interested in backend development with C#/.NET, application architecture, and databases. I write clean code and study SOLID principles and design patterns.
-Tech Stack
 
-Languages:
+Interested in backend development with C#/.NET, application architecture, and databases. I write clean code and study SOLID principles and design patterns.
+
+## 🛠 Tech Stack
+
+**Languages**
 - C#
 - C++
 - Python
 - JavaScript
 - SQL
 
-Tools:
+**Tools & Frameworks**
 - .NET Framework
 - ASP.NET Core
 - Git
@@ -20,22 +22,23 @@ Tools:
 - SQLite
 - HTML/CSS
 
-Projects
+## 🚀 Projects
 
-MedHelp
-
+### MedHelp
 Appointment management system built with C# and WPF.
-- Role-based access: Admin, Doctor, Patient
-- Online appointment booking and home visit requests
-- Report export to Excel
-- Search for patients and doctors by surname or card number
 
-Hotel Management System
+- 👥 **Role-based access:** Admin, Doctor, Patient
+- 📅 **Booking:** Online appointment scheduling and home visit requests
+- 📊 **Reports:** Data export to Excel
+- 🔍 **Search:** Find patients and doctors by surname or card number
 
+### Hotel Management System
 Console application for guest management in C++.
-- File system integration for data storage
-- Room search and filtering by parameters
-- Input data validation
 
-Contacts
-Email: yariklatyshev140308@gmail.com
+- 💾 **Storage:** File system integration for data persistence
+- 🔎 **Filtering:** Room search by specific parameters
+- ✅ **Validation:** Robust input data validation
+
+## 📬 Contacts
+
+- **Email:** yariklatyshev140308@gmail.com
